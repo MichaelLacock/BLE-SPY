@@ -9,6 +9,7 @@ The computer-side application software I made using python.  Step one appends li
 Regarding the visualization of the data, in this example a color is assigned to each Bluetooth Mac-Address.  Each color takes form as a dot randomly places in sequence from the recorded timestamp in the log.
 
 Data Visualization Example Output:
+
 ![Alt Text](https://raw.githubusercontent.com/MichaelLacock/BLE-SPY/main/examples/output_example.gif)
 
 Hardware (required):
@@ -24,4 +25,3 @@ I am making all the software I wrote for this project open source; please use th
  
 -	Project BLE-SPY made by Michael Lacock, 2022
 
-![image](https://user-images.githubusercontent.com/71791024/152244504-39619c2b-4bdb-427f-8589-d7472dfb9e7d.png)
