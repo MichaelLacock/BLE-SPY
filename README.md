@@ -6,7 +6,7 @@ The computer-side application software I made using python.  Step one appends li
 
 ![Alt Text](https://raw.githubusercontent.com/MichaelLacock/BLE-SPY/main/examples/application_step1.gif)
 
-Regarding the visualization of the data, in this example a color is assigned to each Bluetooth Mac-Address.  Each color takes form as a dot randomly places in sequence from the recorded timestamp in the log.
+Regarding the visualization of the data, in this example a color is assigned to each Bluetooth Mac-Address.  Each color takes form as a dot randomly places in sequence from the recorded timestamp in the log.  For the visualization to work correctly, you must edit line 273 and line 287 in the BLE-SPY.py script to connect to a local path for a font. (sorry I didn’t make this step easy for anyone)
 
 Data Visualization Example Output:
 
