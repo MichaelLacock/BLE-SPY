@@ -23,5 +23,5 @@ Hardware (recommended):
 
 I am making all the software I wrote for this project open source; please use this code responsibly and not for malicious purposes.
  
--	Project BLE-SPY made by Michael Lacock, 2022
+Project BLE-SPY made by Michael Lacock, 2022
 
